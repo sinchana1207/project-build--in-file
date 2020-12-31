@@ -1,3 +1,4 @@
+#python language
 import time
 a={} 
 def create(key,value,timeout=0):
